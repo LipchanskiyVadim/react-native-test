@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="28" viewBox="0 0 29 28">
+  <g id="MDI_circle-edit-outline" data-name="MDI / circle-edit-outline" transform="translate(0.22)">
+    <g id="Boundary" transform="translate(-0.22)" fill="#295f83" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="29" height="28" stroke="none"/>
+      <rect x="0.5" y="0.5" width="28" height="27" fill="none"/>
+    </g>
+    <path id="Path_circle-edit-outline" data-name="Path / circle-edit-outline" d="M13.453,2A11.453,11.453,0,1,0,24.906,13.453H22.616a9.162,9.162,0,1,1-9.162-9.162V2m7.765,1.145a.791.791,0,0,0-.55.229l-1.4,1.386,2.863,2.863,1.4-1.386a.774.774,0,0,0,0-1.088L21.757,3.374a.765.765,0,0,0-.538-.229m-2.76,2.428-8.441,8.452v2.863H12.88l8.441-8.452Z" transform="translate(0.909 0.576)" fill="#295f83"/>
+  </g>
+</svg>

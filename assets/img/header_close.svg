@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="MDI_close-circle-outline" data-name="MDI / close-circle-outline" opacity="0.6">
+    <g id="Boundary" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="Path_close-circle-outline" data-name="Path / close-circle-outline" d="M12,20a8,8,0,1,1,8-8,8.011,8.011,0,0,1-8,8M12,2A10,10,0,1,0,22,12,9.991,9.991,0,0,0,12,2m2.59,6L12,10.59,9.41,8,8,9.41,10.59,12,8,14.59,9.41,16,12,13.41,14.59,16,16,14.59,13.41,12,16,9.41Z" fill="#fff"/>
+  </g>
+</svg>

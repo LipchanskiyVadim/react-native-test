@@ -1,0 +1,7 @@
+<svg id="MDI_printer" data-name="MDI / printer" xmlns="http://www.w3.org/2000/svg" width="30.097" height="30.097" viewBox="0 0 30.097 30.097">
+  <g id="Boundary" fill="#295f83" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+    <rect width="30.097" height="30.097" stroke="none"/>
+    <rect x="0.5" y="0.5" width="29.097" height="29.097" fill="none"/>
+  </g>
+  <path id="Path_printer" data-name="Path / printer" d="M22.382,3H7.1V8.148H22.382m1.274,6.435A1.287,1.287,0,1,1,24.929,13.3a1.281,1.281,0,0,1-1.274,1.287m-3.822,9.01H9.643V17.158H19.834m3.822-7.722H5.822A3.842,3.842,0,0,0,2,13.3v7.722H7.1v5.148H22.382V21.019h5.1V13.3A3.842,3.842,0,0,0,23.656,9.435Z" transform="translate(0.31 0.465)" fill="#295f83"/>
+</svg>
